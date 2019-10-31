@@ -8,5 +8,5 @@ meta:
 
 
 ```
-npm i 
+yarn 
 ```
